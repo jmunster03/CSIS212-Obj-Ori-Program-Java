@@ -1,2 +1,2 @@
 # CSIS212-Obj-Ori-Program-Java
-This repository contains all of my CSIS 212 - Object-Oriented Programming (Intro to JavaScript) projects.
+This repository contains all my CSIS 212 - Intro to Object-Oriented Programming (Java) projects.
